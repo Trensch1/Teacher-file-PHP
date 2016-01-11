@@ -1,6 +1,9 @@
 <?php
 	include 'header.html';
-	 echo '<p>Hello World'</p>;
+	 echo '<p>Name: <br>
+		Bio:<br>
+		</p>';
+	include 'bio.txt';
 	include 'footer.html';
  ?>
 
